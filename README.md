@@ -1,5 +1,10 @@
 # Netdata Monitoring Project on Amazon Linux 2023
 
+# Project URL:
+```
+https://roadmap.sh/projects/simple-monitoring-dashboard
+```
+
 This project demonstrates how to install, configure, and test [Netdata](https://www.netdata.cloud/), a powerful real-time monitoring and troubleshooting tool.  
 We will:
 - Install Netdata on an Amazon Linux 2023 EC2 instance.
