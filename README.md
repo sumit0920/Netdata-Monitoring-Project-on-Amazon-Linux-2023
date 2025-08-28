@@ -55,6 +55,9 @@ Open in browser:
 http://<EC2_PUBLIC_IP>:19999/
 ```
 
+<img width="1914" height="816" alt="Screenshot 2025-08-28 234850" src="https://github.com/user-attachments/assets/c7078549-70c1-4f25-a493-44edd2fb4458" />
+
+
 ---
 
 ## **2. Custom Chart**
@@ -113,6 +116,13 @@ EOF
 
 sudo netdatacli reload-health
 ```
+
+<img width="932" height="108" alt="Screenshot 2025-08-28 234951" src="https://github.com/user-attachments/assets/a07b64e4-cf61-42b7-b7d8-92ddf937bef8" />
+
+
+
+<img width="1898" height="782" alt="Screenshot 2025-08-28 234933" src="https://github.com/user-attachments/assets/79512ced-3ec6-4e38-994f-3311e21f69d7" />
+
 
 ---
 
